@@ -1,0 +1,14 @@
+.carousel,
+.carousel-inner,
+.carousel-item,
+.carousel-item img {
+    height: 100vh;
+    /* Full screen height */
+    width: 100%;
+    object-fit: cover;
+}
+
+.carousel {
+    background-color: #009970;
+
+}
