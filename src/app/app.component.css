@@ -78,3 +78,7 @@ padding: 0.5rem;
     position:relative;
 }
 
+.social-icons a:hover {
+  color: #0d6efd; /* Bootstrap primary color on hover */
+  transition: color 0.3s;
+}
